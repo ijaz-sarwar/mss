@@ -1,0 +1,18 @@
+
+.container {
+  margin: 30px;
+  display: flex;
+  align-items: center;
+  cursor: grab;
+  p {
+    color: white;
+    margin-left: 10;
+  }
+  .label {
+    display: none;
+  }
+  .anticon {
+    color: white;
+    margin-right: 10px;
+  }
+}
